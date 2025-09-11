@@ -6,8 +6,5 @@ For the second part of the project i used the list of countries and iterated ove
 For each Country I called the spotify API using spotipy.
 For every country I tried to get a Top-Hits playlist and saved the top hits with the artist names in a dataframe aswell.
 
-To Do: 
-- Which Artist appear most often?
-- Which song appears in most countries?
-- which album appears most often?
-- what is the average songlength in each country?
+Presentation:
+https://docs.google.com/presentation/d/1TYGErFBmd53WK7bPh3acFoN2G2kktEXyzGHnM2wf32E/edit?usp=sharing
